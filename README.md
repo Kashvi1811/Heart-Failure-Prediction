@@ -39,7 +39,6 @@ heart-failure-predictor/
 ├── models/
 │   └── xgboost\_pipeline.pkl      # Trained model pipeline
 ├── requirements.txt              # Dependencies
-├── LICENSE                       # MIT License
 └── README.md                     # Project documentation
 
 ````
