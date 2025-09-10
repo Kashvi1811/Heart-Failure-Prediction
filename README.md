@@ -1,4 +1,4 @@
-# Heart Failure Predictor 🫀✨  
+# Heart Failure Predictor 🫀
 Predicting heart failure risk using clinical records with an XGBoost pipeline and an interactive Streamlit app.
 
 ## 📑 Table of Contents
@@ -32,12 +32,9 @@ The repository provides:
 
 heart-failure-predictor/
 ├── app.py                        # Streamlit app for predictions
-├── notebooks/
-│   └── heartfail.ipynb           # EDA, preprocessing, training, evaluation
-├── data/
-│   └── heart\_failure\_clinical\_records\_dataset.csv
-├── models/
-│   └── xgboost\_pipeline.pkl      # Trained model pipeline
+├── heartfail.ipynb   # EDA, preprocessing, training, evaluation
+├── heart\_failure\_clinical\_records\_dataset.csv
+├── xgboost\_pipeline.pkl  # Trained model pipeline
 ├── requirements.txt              # Dependencies
 └── README.md                     # Project documentation
 
