@@ -2,15 +2,15 @@
 Predicting heart failure risk using clinical records with an XGBoost pipeline and an interactive Streamlit app.
 
 ## 📑 Table of Contents
-- Overview
-- Features
-- Project Structure
-- Getting Started
-- Usage
-- Tech Stack
-- Future Improvements
-- License
-- Contact
+- [Overview](#-overview)
+- [Features](#-features)
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
+- [Usage](#-usage)
+- [Tech Stack](#-tech-stack)
+- [Future Improvements](#-future-improvements)
+- [License](#-license)
+- [Contact](#-contact)
 
 ## 🔎 Overview
 Heart failure is a serious health condition where early prediction can save lives. This project leverages clinical data (age, ejection fraction, blood pressure, etc.) and a trained XGBoost pipeline to estimate the probability of heart failure.  
@@ -113,10 +113,11 @@ Then open `notebooks/heartfail.ipynb`.
 
 Released under the **MIT License**. See the `LICENSE` file for details.
 
-## 🤝 Contact
+## 🤝 Contact & Colloboration
 
-👩‍💻 Author: **Kashvi Soni**
-📧 Email: [kashvisoni1811@gmail.com](mailto:kashvisoni1811@gmail.com)
-🔗 GitHub: [@KashviSoni](https://github.com/KashviSoni)
+I’m always open to feedback, ideas, and collaboration opportunities! Feel free to reach out:
 
+- **GitHub:** [@Kashvi1811](https://github.com/Kashvi1811)
+- **LinkedIn:** [Kashvi on LinkedIn](https://www.linkedin.com/in/kashvisoni1811)
+- **Email:** kashvisoni2005@gmail.com
 
