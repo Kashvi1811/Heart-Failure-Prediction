@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scikit-learn
+linear regression
+svm
+random forest
+xgboost
+joblib
+matplotlib
+seaborn
