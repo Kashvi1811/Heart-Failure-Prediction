@@ -111,7 +111,8 @@ Then open `notebooks/heartfail.ipynb`.
 
 ## 📜 License
 
-Released under the **MIT License**. See the `LICENSE` file for details.
+This project is intended for educational and personal use. All rights reserved by **Kashvi1811**.  
+*For any usage beyond personal or educational purposes, please contact me in advance.*
 
 ## 🤝 Contact & Colloboration
 
