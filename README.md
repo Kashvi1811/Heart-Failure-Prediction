@@ -94,7 +94,7 @@ Then open `notebooks/heartfail.ipynb`.
 * Python, Jupyter
 * pandas, NumPy
 * Matplotlib, Seaborn
-* scikit-learn, XGBoost
+* scikit-learn, Linear Regression , SVM , Random Forest , XGBoost
 * Streamlit
 * joblib
 
