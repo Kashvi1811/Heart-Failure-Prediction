@@ -28,23 +28,23 @@ The repository provides:
 - **Reproducible Workflow**: All steps documented in the notebook for transparency.  
 
 ## 📂 Project Structure
-```
-
 heart-failure-predictor/
-├── app.py                        # Streamlit app for predictions
-├── heartfail.ipynb   # EDA, preprocessing, training, evaluation
-├── heart\_failure\_clinical\_records\_dataset.csv
-├── xgboost\_pipeline.pkl  # Trained model pipeline
-├── requirements.txt              # Dependencies
-└── README.md                     # Project documentation
 
-````
+| File                          | Description                                     |
+|--------------------------------------------|-------------------------------------------------|
+| `app.py`                                   | Streamlit app for predictions                  |
+| `heartfail.ipynb`                           | EDA, preprocessing, training, evaluation       |
+| `heart_failure_clinical_records_dataset.csv` | Dataset of clinical records                     |
+| `xgboost_pipeline.pkl`                      | Trained model pipeline                          |
+| `requirements.txt`                          | Dependencies                                    |
+| `README.md`                                 | Project documentation                            |
+
 
 ## ⚡ Getting Started
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/heart-failure-predictor.git
-cd heart-failure-predictor
+git clone https://github.com/Kashvi1811/Heart-Failure-Prediction/.git
+cd Heart-Failure-Predictor
 ````
 
 2. (Optional) Create a virtual environment:
